@@ -46,8 +46,8 @@ Tüm konfigürasyonlar %100 başarıya ulaşmıştır. Asıl fark **yakınsama h
 ## Nasıl Çalıştırılır
 
 1. [Google Colab](https://colab.research.google.com) adresine gidin
-2. `YZR502_Odev0801_RL_Navigasyon_v2.ipynb` dosyasını yükleyin
-3. Hücreleri sırayla çalıştırın — yerel kurulum gerekmez
+2. `YZR502_Odev0801_RL_Navigasyon.ipynb` dosyasını yükleyin
+3. Hücreleri sırayla çalıştırın, yerel kurulum gerekmez
 
 ---
 
