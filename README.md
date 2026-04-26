@@ -2,8 +2,10 @@
 
 **Ders:** YZR502 Robotik Sistemler ve Algoritmalar  
 **Öğrenci:** Merve TUTAR  
+
 **E-posta:** mervetutar78@gmail.com
-**YouTube:** 
+
+**YouTube:** https://youtu.be/ZYw9B7hUEDg
 
 ---
 
