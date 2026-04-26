@@ -1,10 +1,9 @@
 # YZR502 Ödev 0801 — Mobil Robot Navigasyonu için Takviyeli Öğrenme ile Hiperparametre Analizi
 
 **Ders:** YZR502 Robotik Sistemler ve Algoritmalar  
-**Öğrenci:** [Ad Soyad]  
-**E-posta:** [ogrenci@kurum.edu.tr]  
-**ORCID:** [0000-0000-0000-0000]  
-**YouTube:** [https://youtu.be/XXXXXXXXXX]  
+**Öğrenci:** Merve TUTAR  
+**E-posta:** mervetutar78@gmail.com
+**YouTube:** 
 
 ---
 
@@ -40,21 +39,7 @@ Tüm konfigürasyonlar %100 başarıya ulaşmıştır. Asıl fark **yakınsama h
 
 ![Öğrenme Eğrileri](ogrenme_egrileri_karsilastirma.png)
 
----
 
-## Repo İçeriği
-
-```
-├── YZR502_Odev0801_RL_Navigasyon_v2.ipynb   # Tamamlanmış Colab notebook
-├── ogrenme_egrileri_karsilastirma.png        # Öğrenme eğrisi grafiği
-├── logs/
-│   ├── deney1_lr3e4_g099/best_model/        # D1 en iyi model (.zip)
-│   ├── deney2_lr1e4_g099/best_model/        # D2 en iyi model (.zip)
-│   ├── deney3_lr3e4_g095/best_model/        # D3 en iyi model (.zip)
-│   └── deney4_lr1e3_g099/best_model/        # D4 en iyi model (.zip)
-└── videos/
-    └── best_deney1_lr3e4_g099-*.mp4         # Eğitilmiş robotun navigasyon videosu
-```
 
 ---
 
